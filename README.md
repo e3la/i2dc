@@ -1,9 +1,9 @@
-# instagram2bepress
-Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab
+# instagram2digitalcommons
+Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab. The avante guard technique of [vibecoding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use because I know enough python to be dangerous. 
 
-# 📸 instagram2bepress
+# 📸 instagram2digitalcommons
 
-**instagram2bepress** is a librarian-friendly tool for transforming Instagram archive `.zip` files into structured media + metadata packages ready for batch upload to an institutional repository (such as a bepress IR). It runs in Google Colab — no local installation required.
+**instagram2digitalcommons** is a librarian-friendly tool for transforming Instagram archive `.zip` files into structured media + metadata packages ready for upload to your institutional repository (the digital commons IR via batch upload). It runs in Google Colab — no local installation required.
 
 > Designed for cultural heritage preservation, digital collections, and digital humanities workflows.
 
@@ -36,13 +36,7 @@ Libraries and archives increasingly collect social media content for preservatio
 ## 📁 Input Format
 
 Upload the official Instagram archive `.zip` file you receive when you request your data from Instagram.
-
-Contents should include directories like:
-/content/posts/media/
-/content/stories/media/
-/content/reels/media/
-/content/posts_1.json
-
+The instagram admin should be able to request their archive by visiting https://www.instagram.com/download/request.
 
 ---
 
@@ -80,15 +74,6 @@ README.txt
 ---
 
 ## 📚 Dependencies
-
-This notebook uses:
-
-- Python 3
-- `pandas`
-- `zipfile`, `os`, `json`, `datetime`
-- `openpyxl`
-- `IPython.display`
-- `google.colab.files`
 
 All libraries are pre-installed in Colab.
 
