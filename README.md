@@ -83,8 +83,7 @@ All libraries are pre-installed in Colab.
 
 - Custom field mapping for specific IR schemas
 - Alt text generation using AI
-- OCR for embedded text in images
-- Direct integration with repository platforms
+- OCR of embedded text in images
 
 ---
 
