@@ -3,9 +3,7 @@ Vibe coded a tool for taking an instagram archive zip and transforming it into b
 
 # 📸 instagram2digitalcommons
 
-**instagram2digitalcommons** is a librarian-friendly tool for transforming Instagram archive `.zip` files into structured media + metadata packages ready for upload to your institutional repository (the digital commons IR via batch upload). It runs in Google Colab — no local installation required.
-
-> Designed for cultural heritage preservation, digital collections, and digital humanities workflows.
+**instagram2digitalcommons** is a librarian-friendly tool for transforming Instagram archive `.zip` files into structured media files + metadata packages for upload to your institutional repository (with the digital commons batch upload). It runs in Google Colab — no local installation required.
 
 ---
 
