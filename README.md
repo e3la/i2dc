@@ -1,5 +1,5 @@
 # instagram2digitalcommons
-Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab. The avante guard technique of [vibecoding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use because I know enough python to be dangerous. 
+Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab. The avante guard technique of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use because I know enough python to be dangerous. 
 
 # 📸 instagram2digitalcommons
 
