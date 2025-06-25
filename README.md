@@ -66,7 +66,8 @@ README.txt
 2. Upload your Instagram archive `.zip` when prompted  
 3. Configure your preferences and metadata
 4. Download your structured repository-ready packages!
-Optional / Advanced Review
+   
+## Optional / Advanced Review
 [![Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc_metadata_review.ipynb)
 Upload the zips you made in the First Pass and review them.
 
