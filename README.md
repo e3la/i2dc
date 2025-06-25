@@ -63,10 +63,10 @@ README.txt
 
 1. Click the button below to launch the notebook:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/e3la/instagram2digitalcommons/blob/main/instagram2digitalcommons.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/e3la/i2dc/blob/main/i2dc_v2.ipynb)
 
 2. Upload your Instagram archive `.zip` when prompted  
-3. Review the parsed metadata
+3. Configure your preferences and metadata
 4. Download your structured repository-ready packages!
 
 ---
