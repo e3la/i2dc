@@ -68,7 +68,7 @@ README.txt
 4. Download your structured repository-ready packages!
    
 ## Optional / Advanced Review
-[![Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc_metadata_review.ipynb)
+[![Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/metadata_review_i2dc.ipynb)
 Upload the zips you made in the First Pass and review them.
 
 ---
