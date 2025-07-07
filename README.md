@@ -62,19 +62,19 @@ README.txt
 ## 🧑‍💻 How to Run (in Google Colab)
 
 1. Click the button below to launch the notebook:
-[![First Pass - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/e3la/i2dc/blob/main/i2dc.ipynb)
+[![First Pass - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb)
 2. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder /i2dc)
 3. Configure your preferences and metadata
 4. Download your structured repository-ready packages!
    
 ## Advanced Review
-[![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/e3la/i2dc/blob/main/Reels_Metadata_Review_and_Triage.ipynb)
+[![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/Reels_Metadata_Review_and_Triage.ipynb)
 Upload the reels zips you made in the First Pass and review them.
 
 [![Posts - In Google AI Studio]([https://www.google.com/url?q=https%3A%2F%2Faistudio.google.com%2Fapp%2Fprompts%3Fstate%3D%257B%2522ids%2522%3A%255B%25221zgUh4dqoGWewtqPE40gBb96Vt2TMujgA%2522%255D%2C%2522action%2522%3A%2522open%2522%2C%2522userId%2522%3A%2522106905111806513074045%2522%2C%2522resourceKeys%2522%3A%257B%257D%257D%26usp%3Dsharin))
 Upload the posts zips you made in the First Pass (why I recommend 20 at a time) and review them and add AI descriptions.
 
-[![Posts Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/e3la/i2dc/blob/main/PostsReview.ipynb)
+[![Posts Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/PostsReview.ipynb)
 Upload the reels zips you made in the First Pass and review them.
 
 
