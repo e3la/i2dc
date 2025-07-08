@@ -45,16 +45,18 @@ Each category (**Reels**, **Posts**, **Stories**) will be exported as zip files
 
 ## 🧑‍💻 How to Run i2dc (in Google Colab)
 
-You will need a google account to run this, but if you have another way to run a jupyter notebook, feel free to do that.
+You will need a google account to run this from the link, but if you have another way to run a jupyter notebook, feel free to do that.
 
-1. Click the button below to launch the notebook:
+Click the button below to launch the notebook:
+   
 <a href="https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb" target="_blank" rel="noopener noreferrer">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="First Pass - Open in Colab"/><p>
 </a>
-2. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder named /i2dc)
-3. Configure your preferences and metadata
-4. Download your zips directly or into your google drive /i2dc folder
-5. Extract your zips and explore your media and metadata in a new more familiar format!
+
+1. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder named /i2dc)
+2. Configure your preferences and metadata
+3. Download your zips directly or into your google drive /i2dc folder
+4. Extract your zips and explore your media and metadata in a new more familiar format!
    
 ## Advanced Review Tools
 [![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/Reels_Metadata_Review_and_Triage.ipynb)
