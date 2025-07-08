@@ -1,9 +1,9 @@
 # instagram2digitalcommons
-Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab. The avante guard technique of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use because I know enough python to be dangerous. 
+Are a collection of vibe coded tools for taking an instagram archive zip and transforming it into something closer to bepress ingestible files with metadata. The avante guard technique of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use in part because I know enough python to be dangerous and I'm curious if I can make useful things from ai prompts and plenty of testing. 
 
 # 📸 instagram2digitalcommons
 
-**instagram2digitalcommons** is a librarian-friendly tool for transforming Instagram archive `.zip` files into structured media files + metadata packages for upload to your institutional repository (with the digital commons batch upload). It runs in Google Colab — no local installation required.
+**instagram2digitalcommons** is a collection of hopefully librarian-friendly tools for transforming an Instagram archive `.zip` into structured media files + metadata packages for upload to your institutional repository (with the digital commons batch upload). It all runs online with no local installation required.
 
 ---
 
@@ -12,17 +12,16 @@ Vibe coded a tool for taking an instagram archive zip and transforming it into b
 - ✅ Upload and parse Instagram `.zip` archives
 - ✅ Extract images, videos, captions, dates, and metadata
 - ✅ Categorize content into **Reels**, **Posts**, and **Stories**
-- ✅ Preview extracted metadata in structured tables
-- ✅ Download a set of archive-ready folders with:
-  - Clean media files
-  - Metadata spreadsheets (.xlsx) with emoji support
+- ✅ Download a set zip files with:
+  - Clean well labeled media files
+  - Metadata spreadsheets (.xlsx)
   - README files for each set
 
 ---
 
 ## 🔍 Use Case
 
-Libraries and archives increasingly collect social media content for preservation and research. Instagram archives include valuable born-digital materials (e.g. event photos, exhibition documentation, institutional campaigns). This tool supports:
+Collect and archive social media content for preservation and research. Instagram archives include valuable materials (e.g. event photos, exhibition documentation, institutional campaigns). This tool supports:
 
 - Special Collections digitization projects
 - Campus or departmental documentation
@@ -33,41 +32,29 @@ Libraries and archives increasingly collect social media content for preservatio
 
 ## 📁 Input Format
 
-Upload the official Instagram archive `.zip` file you receive when you request your data from Instagram.
-The instagram admin should be able to request their archive by visiting https://www.instagram.com/download/request.
+Upload an official Instagram archive `.zip` file that you receive when you request your data from Instagram.
+The instagram account admin can request their archive by visiting https://www.instagram.com/download/request.
 
 ---
 
 ## 📦 Output
 
-Each category (**Reels**, **Posts**, **Stories**) will be exported as:
-/reels_export/
-metadata_reels.xlsx
-README.txt
-/media/...
-
-/posts_export/
-metadata_posts.xlsx
-README.txt
-/media/...
-
-/stories_export/
-metadata_stories.xlsx
-README.txt
-/media/...
-
+Each category (**Reels**, **Posts**, **Stories**) will be exported as zip files
 
 ---
 
-## 🧑‍💻 How to Run (in Google Colab)
+## 🧑‍💻 How to Run i2dc (in Google Colab)
+
+You will need a google account to run this, but if you have another way to run a jupyter notebook, feel free to do that.
 
 1. Click the button below to launch the notebook:
 [![First Pass - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb)
-2. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder /i2dc)
+2. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder named /i2dc)
 3. Configure your preferences and metadata
-4. Download your structured repository-ready packages!
+4. Download your zips directly or into your google drive /i2dc folder
+5. Extract your zips and explore your media and metadata in a new more familiar format!
    
-## Advanced Review
+## Advanced Review Tools
 [![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/Reels_Metadata_Review_and_Triage.ipynb)
 Upload the reels zips you made in the First Pass and review them.
 
