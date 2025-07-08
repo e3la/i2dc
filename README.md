@@ -49,9 +49,7 @@ You will need a google account to run this from the link, but if you have anothe
 
 Click the button below to launch the notebook:
    
-<a href="https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb" target="_blank" rel="noopener noreferrer">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="First Pass - Open in Colab"/><p>
-</a>
+<a href="https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb" target="_blank"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="First Pass - Open in Colab"/><p> </a>
 
 1. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder named /i2dc)
 2. Configure your preferences and metadata
