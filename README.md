@@ -48,7 +48,9 @@ Each category (**Reels**, **Posts**, **Stories**) will be exported as zip files
 You will need a google account to run this, but if you have another way to run a jupyter notebook, feel free to do that.
 
 1. Click the button below to launch the notebook:
-[![First Pass - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb)
+<a href="https://colab.research.google.com/github/e3la/i2dc/blob/main/i2dc.ipynb" target="_blank" rel="noopener noreferrer">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="First Pass - Open in Colab"/>
+</a>
 2. Upload your Instagram archive `.zip` when prompted (either directly or using google drive saved to a folder named /i2dc)
 3. Configure your preferences and metadata
 4. Download your zips directly or into your google drive /i2dc folder
