@@ -60,11 +60,8 @@ Click the button below to launch the notebook:
 [![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/Reels_Metadata_Review_and_Triage.ipynb)
 Upload the reels zips you made in the First Pass and review them.
 
-[![Posts - In Google AI Studio]([https://www.google.com/url?q=https%3A%2F%2Faistudio.google.com%2Fapp%2Fprompts%3Fstate%3D%257B%2522ids%2522%3A%255B%25221zgUh4dqoGWewtqPE40gBb96Vt2TMujgA%2522%255D%2C%2522action%2522%3A%2522open%2522%2C%2522userId%2522%3A%2522106905111806513074045%2522%2C%2522resourceKeys%2522%3A%257B%257D%257D%26usp%3Dsharin))
-Upload the posts zips you made in the First Pass (why I recommend 20 at a time) and review them and add AI descriptions.
-
-[![Posts Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/PostsReview.ipynb)
-Upload the reels zips you made in the First Pass and review them.
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221cFQFx4K4s5aayMUurPcGQcKHbTG61hur%22%5D,%22action%22:%22open%22,%22userId%22:%22106905111806513074045%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+Upload the posts zips you made in the First Pass (why I recommend 20 at a time), review them, and add AI descriptions. 
 
 
 ---
