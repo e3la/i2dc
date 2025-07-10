@@ -1,6 +1,8 @@
 # instagram2digitalcommons
 Are a collection of vibe coded tools for taking an instagram archive zip and transforming it into something closer to bepress ingestible files with metadata. The avante guard technique of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use in part because I know enough python to be dangerous and I'm curious if I can make useful things from ai prompts and plenty of testing. 
 
+[![watch an introduction to i2dc on youtube](https://img.youtube.com/vi/jueq-Tm8Ys0/0.jpg)](https://youtu.be/jueq-Tm8Ys0)
+
 # 📸 instagram2digitalcommons
 
 **instagram2digitalcommons** is a collection of hopefully librarian-friendly tools for transforming an Instagram archive `.zip` into structured media files + metadata packages for upload to your institutional repository (with the digital commons batch upload). It all runs online with no local installation required.
