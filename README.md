@@ -1,6 +1,7 @@
 # instagram2digitalcommons
 Are a collection of vibe coded tools for taking an instagram archive zip and transforming it into something closer to bepress ingestible files with metadata. The avante guard technique of [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is being put to use in part because I know enough python to be dangerous and I'm curious if I can make useful things from ai prompts and plenty of testing. 
 
+## 📺 Watch the Introduction to i2dc on youtube
 [![watch an introduction to i2dc on youtube](https://img.youtube.com/vi/jueq-Tm8Ys0/0.jpg)](https://youtu.be/jueq-Tm8Ys0)
 
 # 📸 instagram2digitalcommons
