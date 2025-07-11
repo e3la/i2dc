@@ -99,9 +99,8 @@ All libraries are pre-installed in Colab.
 
 Created by [Helena Marvin](https://github.com/e3la)  
 AI-assisted by ChatGPT & Gemini
-Prompt and conversation for developing this readme at [https://chatgpt.com/share/6830b6b7-a65c-800f-9391-53d0c394587e]
-Prompts for gemini in the prompts zip at [https://github.com/e3la/i2dc/blob/main/docs/prompts-07112025-google-ai-studio-smaller.zip]
-University of Missouri–St. Louis | UMSL Libraries
+- Prompt and conversation for developing this readme with chatgpt at [https://chatgpt.com/share/6830b6b7-a65c-800f-9391-53d0c394587e]
+- Prompts for gemini in the prompts zip at [https://github.com/e3la/i2dc/blob/main/docs/prompts-07112025-google-ai-studio-smaller.zip]
 
 ---
 
