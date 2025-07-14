@@ -104,6 +104,26 @@ AI-assisted by ChatGPT & Gemini
 
 ---
 
+## 📚 Further Resources and Many Thanks to These Learning Resources
+
+I watched the first half of this video about vibe coding and it helped me better conceptualize how get what I wanted done: https://www.youtube.com/watch?v=iLCDSY2XX7E by Tina Huang. I also enjoyed her 20 minute summary of google's 9 hour AI prompt engineering -https://www.youtube.com/watch?v=p09yRj47kNM.
+
+I have learned a lot from https://www.freecodecamp.org/ and would have struggled a lot more with this project if I hadn't done a data analysis bootcamp at launchcode https://www.launchcode.org/ in St. Louis Missouri. 
+
+If you have access to the O'Reilly database it is a treasure of tech information that can be useful to you.
+
+--- 
+
+## My Workflow 💡➡️🤖➡️🧪➡️🔄
+
+My most effective workflow began with figuring out the high-level vision for this project, a process I learned from Tina Huang's "vibe coding" video. I then used that as a prompt to Gemini in Google AI Studio with the specific request to generate the individual cells of a Colab notebook to execute that vision. I copied from the chat with gemini in ai studio and tested it directly in Colab. For any minor issues or small bugs, I use the integrated Gemini assistant inside Colab for quick fixes.
+
+After those fixes were made to make more substantial changes, such as adding new features or changing the workflow, I download the entire Colab notebook as a py. I then start a new chat session with Gemini and upload that file. This provides Gemini with the full context of the code, allowing me to ask specific questions like, "Which cell or cells should I modify to add this new functionality?". This iterative process of downloading, uploading, and targeted changes proven to be a somewhat efficient way to build and refine this tool.
+
+I wrote the above by tossing this word vomit into a chat with gemini: "The workflow that I found most useful to me was, get a high level overview of what I wanted (as described in Tina Huang's vibe coding video) and ask gemini in google ai studio to write cells of a colab that would do that. Test the colab, fix tiny errors with gemini inside the colab, and download the entire colab and go upload it back into a new chat in google and ask it which cell I needed to change to add or fix any part of the tool." I don't always word so good and that means being able to edit a prompt after I get an output is really helpful and part of what I enjoy about the aistudio interface, that and being able to see my token count so I can know when to shift to a new chat. 
+
+---
+
 ## 📄 License
 
 CC0 because I believe ai generated code should be public domain
