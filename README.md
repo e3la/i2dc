@@ -83,7 +83,7 @@ Upload the posts zips you made in the First Pass (this is the reason I recommend
 
 ## 📚 Dependencies
 
-All libraries are pre-installed in Colab.
+You'll need a google account to run both google colab and google ai studio. You should be able to run any of the colab ipynb files without connecting it to your google drive, but it is all faster if you do. This tool was designed because so many librarians can't install this sort of python toolkit on their computer. 
 
 ---
 
