@@ -72,7 +72,7 @@ Click the button below to launch the notebook:
 ## Advanced Review Tools
 
 For Reels:
-[![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/reels_srt_gpu.ipynb])
+[![Reels Metadata review - Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e3la/i2dc/blob/main/reels_srt_gpu.ipynb)
 Upload the reels zips you made in the core i2dc tool and review them and their metadata including subtitles, and generate new subtitles with whisper ai with this tool, and if you run out of GPU there is a backup slower cpu only version.
 
 For Posts:
