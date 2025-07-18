@@ -112,6 +112,8 @@ I have learned a lot from https://www.freecodecamp.org/ and would have struggled
 
 If you have access to the O'Reilly database it is a treasure of tech information that can be useful to you.
 
+I haven't used it but if you're wanting whisper transcripts and you're on windows try out [https://nolongerset.com/whisper-desktop/ ](https://github.com/Const-me/Whisper).
+
 --- 
 
 ## My Workflow 💡➡️🤖➡️🧪➡️🔄
